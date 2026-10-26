@@ -1,0 +1,20 @@
+body {
+    background: #f4f6f9;
+}
+
+/* Halaman login */
+.login-wrapper {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #198754 0%, #0f5132 100%);
+}
+.login-card {
+    max-width: 400px;
+    border: 0;
+    border-radius: 12px;
+}
+
+/* Kartu ringkasan di dashboard */
+.kartu-ringkasan .angka {
+    font-size: 1.6rem;
+    font-weight: 700;
+}
